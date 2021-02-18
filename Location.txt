@@ -1,0 +1,6 @@
+Location details:
+Address: Bengaluru, Karnataka, IN
+post code: 560002
+Latitude: 12.9719
+Longitude: 77.5937
+IP address: 49.37.203.110

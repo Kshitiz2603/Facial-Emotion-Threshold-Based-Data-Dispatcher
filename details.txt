@@ -1,0 +1,6 @@
+Name: Kshitiz
+Age: 20
+Phone: 9315818588
+Gender: Male
+Region: Haryana
+illness: Happy

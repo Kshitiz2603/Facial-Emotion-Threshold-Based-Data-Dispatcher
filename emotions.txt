@@ -1,0 +1,2 @@
+Emotions:
+defaultdict(<class 'int'>, {'angry': 0, 'disgust': 0, 'scared': 0, 'happy': 8, 'sad': 0, 'surprised': 0, 'neutral': 11})
